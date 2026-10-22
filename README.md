@@ -67,20 +67,4 @@ java -cp out app.PruebasBiblioteca
 
 En el menú, la **opción 1** carga la estructura inicial. Las opciones de libros piden primero el código del estante, por ejemplo `SW-E1`.
 
-## Captura de PruebasBiblioteca
-
-![PruebasBiblioteca 15/15](docs/capturas/cap01_pruebas.png)
-
-## Otras capturas
-
-| Captura | Contenido |
-|---|---|
-| [cap02](docs/capturas/cap02_menu_jerarquia.png) | Menú y jerarquía inicial |
-| [cap03](docs/capturas/cap03_unidades.png) | Agregar, buscar unidades, altura, hojas, nivel y total |
-| [cap04](docs/capturas/cap04_libros.png) | Buscar, modificar y libro inexistente |
-| [cap05](docs/capturas/cap05_recorridos_retos.png) | Recorridos y retos |
-| [cap06](docs/capturas/cap06_trazas_personal.png) | Inserción de los códigos personales 32, 28 y 82 y recorridos |
-| [cap06b](docs/capturas/cap06b_traza_preorden.png) | Traza del preorden con los códigos personales |
-| [cap07](docs/capturas/cap07_eliminaciones.png) | Eliminaciones de hoja, un hijo y dos hijos |
-
 El desarrollo a mano está en [TRAZAS.md](TRAZAS.md).
