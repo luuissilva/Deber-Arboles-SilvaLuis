@@ -1,6 +1,6 @@
 # TRAZAS.md · Desarrollo a mano
 
-**Estudiante:** Damian Cunalata · **Estante usado:** SW-E1
+**Estudiante:** Luis Silva · **Estante usado:** SW-E1
 
 ## 1. Códigos personales
 
@@ -190,7 +190,6 @@ La salida se obtuvo con el menú (`java -cp out app.Main`):
 - opción 11, para los retos;
 - opción 9, para las eliminaciones.
 
-Capturas: `docs/capturas/cap06_trazas_personal.png`, `docs/capturas/cap06b_traza_preorden.png` y `docs/capturas/cap07_eliminaciones.png`.
 
 | Punto | A mano | Salida del programa | ¿Coincide? |
 |---|---|---|---|
