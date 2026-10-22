@@ -1,7 +1,7 @@
 # Catálogo de la Biblioteca FISEI con árbol general y ABB en Java
 
 **Asignatura:** Estructura de Datos · **Nivel:** Tercero – Ingeniería de Software
-**Estudiante:** Damian Cunalata · **Modalidad:** Individual
+**Estudiante:** Luis Silva · **Modalidad:** Individual
 
 ## Problema
 
